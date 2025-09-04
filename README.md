@@ -2,6 +2,10 @@
 
 Aplikasi berbasis **Streamlit** untuk memprediksi kemungkinan seseorang terkena diabetes menggunakan algoritma **Logistic Regression**. Selain prediksi, aplikasi ini juga menampilkan **visualisasi distribusi data** untuk memberikan insight tambahan.
 
+## 📸 Preview Aplikasi
+
+![Screenshot Aplikasi](Screenshot.png)
+
 ## 🚀 Fitur Utama
 
 - **Prediksi Diabetes** dengan Logistic Regression
